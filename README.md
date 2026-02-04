@@ -17,13 +17,13 @@ Identification of undervalued and overvalued properties
 
 Tech Stack
 
-Programming	- Python
-Scraping - Scrapy
-ML Models	- XGBoost, Scikit-learn
-Data Processing	- Pandas, NumPy
-Visualization	- Matplotlib, Folium
-Geospatial - Geopy, OSMnx
-Dashboard	- Streamlit
+Programming	- Python,
+Scraping - Scrapy,
+ML Models	- XGBoost, Scikit-learn,
+Data Processing	- Pandas, NumPy,
+Visualization	- Matplotlib, Folium,
+Geospatial - Geopy, OSMnx,
+Dashboard	- Streamlit,
 Deployment - GitHub
 
 What This Project Solves
