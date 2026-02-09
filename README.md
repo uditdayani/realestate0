@@ -61,3 +61,52 @@ RMSE: ~6800
 R² Score: ~0.74
 
 The model effectively captures location and amenity-driven pricing patterns.
+
+Geospatial Intelligence
+
+Amenities such as:
+Schools Parks Hospitals Malls were extracted using OpenStreetMap (OSMnx) and converted into density-based features, helping the model understand neighborhood value.
+
+Dashboard Features
+
+The Streamlit dashboard provides:
+
+-> Suburb-level market insights
+
+-> Predicted vs actual price analysis
+
+-> Overpriced / Underpriced flagging
+
+-> Interactive filters
+
+-> Dynamic map visualization
+
+-> Custom property price prediction
+
+Example Prediction
+
+Input:
+
+2 BHK
+2 Bathrooms
+1 Balcony
+Suburb: Bandra
+
+Output:
+Predicted Price per Sqft
+Price Flag:
+Underpriced
+Fair Price
+Overpriced
+
+Screenshots
+Dashboard Overview
+Interactive Map View
+Predictions Analysis
+
+Future Improvements
+
+Add rental price prediction
+Include more cities
+Deploy dashboard online
+Add time-series forecasting
