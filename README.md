@@ -95,17 +95,17 @@ Suburb: Bandra
 Output:
 Predicted Price per Sqft
 Price Flag:
-Underpriced
-Fair Price
-Overpriced
+-Underpriced
+-Fair Price
+-Overpriced
 
 Screenshots
-Dashboard Overview
-Interactive Map View
-Predictions Analysis
+-Dashboard Overview
+-Interactive Map View
+-Predictions Analysis
 
 Future Improvements
-Add rental price prediction
-Include more cities
-Deploy dashboard online
-Add time-series forecasting
+-Add rental price prediction
+-Include more cities
+-Deploy dashboard online
+-Add time-series forecasting
