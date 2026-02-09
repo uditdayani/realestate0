@@ -105,7 +105,6 @@ Interactive Map View
 Predictions Analysis
 
 Future Improvements
-
 Add rental price prediction
 Include more cities
 Deploy dashboard online
